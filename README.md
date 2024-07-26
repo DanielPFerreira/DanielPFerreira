@@ -1,4 +1,4 @@
-# 🧑‍💻 Daniel Ferreira
+# 💻 Daniel Ferreira
 
 ## 👋 Sobre Mim
 Olá! Eu sou Daniel Ferreira, um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. 
