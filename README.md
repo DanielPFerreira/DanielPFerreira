@@ -16,13 +16,7 @@ Tenho experiência em algumas linguagens de programação e tecnologias, e gosto
 Api em Java utilizando SpringBoot, fazendo um Crud, possui controle por Token.
 
 ## 🎓 Educação
-- **Faculdade ENIAC** - Bacharelado em sistemas de informação (2014)
-
-## 💼 Experiência
-### Contmatic Phoenix
-**Desenvolvedor** - (05/2015 - Atual)
-
-
+- **Faculdade ENIAC** - Bacharelado em sistemas de informação 
 
 ## 📬 Contato
 - **LinkedIn:** https://www.linkedin.com/in/danielpaulo10
