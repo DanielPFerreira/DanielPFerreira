@@ -1,43 +1,33 @@
-# 🧑‍💻 Nome do Desenvolvedor
+# 🧑‍💻 Daniel Ferreira
 
 ## 👋 Sobre Mim
-Olá! Eu sou [Seu Nome], um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em diversas linguagens de programação e tecnologias, e adoro aprender coisas novas e enfrentar desafios técnicos.
+Olá! Eu sou Daniel Ferreira, um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. 
+Tenho experiência em algumas linguagens de programação e tecnologias, e gosto muito de aprender coisas novas e enfrentar desafios técnicos.
 
 ## 🚀 Habilidades
-- **Linguagens de Programação:** Python, JavaScript, Java, C#
-- **Frameworks e Bibliotecas:** React, Node.js, Django, Flask
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- **Ferramentas e Tecnologias:** Git, Docker, Kubernetes, AWS
+- **Linguagens de Programação:** Delphi, JavaScript, Java, C#
+- **Frameworks e Bibliotecas:** SpringBoot, Node.js
+- **Banco de Dados:** PostgreSQL, SQL Server
+- **Ferramentas e Tecnologias:** Git, SVN
 - **Metodologias:** Agile, Scrum, TDD
 
 ## 📂 Projetos
-### [Nome do Projeto 1](link-para-o-projeto)
-Breve descrição do projeto. O que ele faz, quais tecnologias foram utilizadas e qualquer outro detalhe relevante.
-
-### [Nome do Projeto 2](link-para-o-projeto)
-Breve descrição do projeto. O que ele faz, quais tecnologias foram utilizadas e qualquer outro detalhe relevante.
-
-### [Nome do Projeto 3](link-para-o-projeto)
-Breve descrição do projeto. O que ele faz, quais tecnologias foram utilizadas e qualquer outro detalhe relevante.
+### [Api em JAVA](https://github.com/DanielPFerreira/Api-Rest-Spring-Boot)
+Api em Java utilizando SpringBoot, fazendo um Crud, possui controle por Token.
 
 ## 🎓 Educação
-- **[Nome da Universidade]** - Bacharelado em Ciência da Computação (Ano de Conclusão)
-- **[Nome do Curso]** - Certificação em [Área] (Ano de Conclusão)
+- **Faculdade ENIAC** - Bacharelado em sistemas de informação (2014)
 
 ## 💼 Experiência
-### [Nome da Empresa]
-**Cargo** - (Data de Início - Data de Término)
-- Descrição das responsabilidades e conquistas na posição.
+### Contmatic Phoenix
+**Desenvolvedor** - (05/2015 - Atual)
 
-### [Nome da Empresa]
-**Cargo** - (Data de Início - Data de Término)
-- Descrição das responsabilidades e conquistas na posição.
+
 
 ## 📬 Contato
-- **Email:** [seuemail@dominio.com](mailto:seuemail@dominio.com)
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- **GitHub:** [Seu Perfil no GitHub](https://github.com/seu-usuario)
+- **LinkedIn:** https://www.linkedin.com/in/danielpaulo10
+- **GitHub:** https://github.com/DanielPFerreira
 
 ---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato se tiver alguma pergunta ou se quiser colaborar em algum projeto.
+Obrigado por visitar meu perfil!
