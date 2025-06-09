@@ -9,7 +9,7 @@ Tenho experiência em algumas linguagens de programação e tecnologias, e gosto
 - **Frameworks e Bibliotecas:** SpringBoot, Node.js
 - **Banco de Dados:** PostgreSQL, SQL Server
 - **Ferramentas e Tecnologias:** Git, SVN
-- **Metodologias:** Agile, Scrum, TDD
+- **Metodologias:** Agile, Scrum, TDD, Kanbam
 
 ## 📂 Projetos
 ### [Api em JAVA](https://github.com/DanielPFerreira/Api-Rest-Spring-Boot)
