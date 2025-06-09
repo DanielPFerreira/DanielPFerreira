@@ -12,10 +12,10 @@ Tenho experiência em algumas linguagens de programação e tecnologias, e gosto
 - **Metodologias:** Agile, Scrum, TDD, Kanbam
 
 ## 📂 Projetos
-### [Delphi](https://github.com/DanielPFerreira/Delphi)
 Códigos e exemplos em Delphi.
-### [Api em JAVA](https://github.com/DanielPFerreira/Api-Rest-Spring-Boot)
+### [Delphi](https://github.com/DanielPFerreira/Delphi)
 Api em Java utilizando SpringBoot, fazendo um Crud, possui controle por Token.
+### [Api em JAVA](https://github.com/DanielPFerreira/Api-Rest-Spring-Boot)
 
 ## 🎓 Educação
 - **Faculdade ENIAC** - Bacharelado em sistemas de informação 
